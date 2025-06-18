@@ -79,9 +79,13 @@ This method reduces dependency on real capture setups and can be extended to:
 
 **Author:**
 **Dhruv Visariya**
+
 BTech in Electronics & Communication Engineering
+
 University of Allahabad
+
 GitHub: [@Dhruvvisariya](https://github.com/Dhruvvisariya)
+
 Email: [dhruvvisariya@gmail.com](mailto:dhruvvisariya@gmail.com)
 
 📌 *This project is intended for academic research, learning, and ethical use only.*
