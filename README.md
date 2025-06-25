@@ -77,6 +77,18 @@ This method reduces dependency on real capture setups and can be extended to:
 
 ---
 
+## 📂 Project Structure
+
+| File | Description |
+|------|-------------|
+| `Poi.py` | Detects Points of Interest (POIs) using signal derivative analysis and peak detection. |
+| `interplotation.py` | Reconstructs AES trace segments using interpolation: Cubic Splines and Chebyshev polynomials. |
+| `finalcompare.py` | Performs statistical evaluation using Pearson correlation and Cohen’s d effect size. |
+| `groupplot.py` | Visualizes grouped HW/HD comparisons and intra/inter-group differences. |
+| `8sempaper.pdf` | Final semester research paper submitted to the university. |
+| `README.md` | Project overview, methodology, file roles, and background. |
+---
+
 **Author:**
 **Dhruv Visariya**
 
@@ -87,5 +99,11 @@ University of Allahabad
 GitHub: [@Dhruvvisariya](https://github.com/Dhruvvisariya)
 
 Email: [dhruvvisariya@gmail.com](mailto:dhruvvisariya@gmail.com)
+
+## 📖 More Details
+
+This project is explained in-depth in my technical article on LinkedIn, which walks through the rationale, math, trace results, and interpretation:
+
+🔗 [LinkedIn Article – Synthetic Power Trace Generation for AES](https://www.linkedin.com/pulse/simulating-secrets-hardware-free-framework-power-aes-dhruv-visariya-esljc/)
 
 📌 *This project is intended for academic research, learning, and ethical use only.*
